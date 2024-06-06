@@ -17,3 +17,8 @@ To another Arabian night!
 nous sommes dans le desert en l'an 3200 avant JC, 
 notre jeune hero jeremy (prénom tres adapté a l'époque) 16 ans 
 se balade dans sa ville natale
+
+
+Predit qu un jour un homme
+S aidant de sa femme numerique 
+Plus intelligente que lui
