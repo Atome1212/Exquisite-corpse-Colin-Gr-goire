@@ -1,4 +1,4 @@
-#La Prophétie des Sables Éternels
+# La Prophétie des Sables Éternels
 
 Oh I come from a land
 From a faraway place
@@ -13,3 +13,7 @@ Come on down,
 Stop on by
 Hop a carpet and fly
 To another Arabian night!
+
+nous sommes dans le desert en l'an 3200 avant JC, 
+notre jeune hero jeremy (prénom tres adapté a l'époque) 16 ans 
+se balade dans sa ville natale
