@@ -1,5 +1,7 @@
 # La Prophétie des Sables Éternels
 
+Once upon a time in a hot modern desert it happens in the sand a dark fight 
+
 Oh I come from a land
 From a faraway place
 Where the caravan camels roam
@@ -22,3 +24,4 @@ se balade dans sa ville natale
 Predit qu un jour un homme
 S aidant de sa femme numerique 
 Plus intelligente que lui
+
